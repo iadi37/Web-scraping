@@ -1,6 +1,6 @@
 # Web-scraping
 
-## Fetching website data using requests and BeautifulSoap libraries
+## Fetching website data using requests and BeautifulSoup libraries
 
 ### IPL 2023 Auction data:
 
